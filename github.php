@@ -1,2 +1,2 @@
 <?php 
-echo shell_exec("/var/www/scb_webgl/git pull 2>&1");
+echo shell_exec('cd /var/www/scb_webgl && git reset --hard HEAD && git pull');
