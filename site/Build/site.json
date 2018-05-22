@@ -1,9 +1,11 @@
 {
-"TOTAL_MEMORY": 268435456,
+"companyName": "Coppra Games",
+"productName": "City Builder Template",
 "dataUrl": "site.data.unityweb",
 "asmCodeUrl": "site.asm.code.unityweb",
 "asmMemoryUrl": "site.asm.memory.unityweb",
 "asmFrameworkUrl": "site.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
